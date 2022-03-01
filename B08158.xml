@@ -1,0 +1,1336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verbum sempiternum</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 142 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08158</idno>
+            <idno type="STC">STC 23811</idno>
+            <idno type="STC">ESTC S123181</idno>
+            <idno type="EEBO-CITATION">72799961</idno>
+            <idno type="OCLC">ocm 72799961</idno>
+            <idno type="VID">184136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2229:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Verbum sempiternum</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[270] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Jo. Beale for John Hamman,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1616..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-D¹⁶ E¹⁵.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Paraphrases, English --  Early works to 1800.</term>
+               <term>Bible --  Thumb Bibles --  Specimens --  17th century.</term>
+               <term>Miniature books --  Specimens --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:184136:1"/>
+                  <pb facs="tcp:184136:1"/>
+                  <p>VERBVM SEMPI<g ref="char:EOLhyphen"/>TERNVM.</p>
+                  <p>Printed at <hi>London</hi> by JO BEALY for <hi>John Hamman</hi> 1616.
+<pb facs="tcp:184136:2" rendition="simple:additions"/>
+                     <pb facs="tcp:184136:2"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:184136:3"/>
+                  <head>TO ANNA Queene of <hi>Great Bri<g ref="char:EOLhyphen"/>taine.</hi>
+                  </head>
+                  <pb facs="tcp:184136:3"/>
+                  <p>The Epiſtle.</p>
+                  <p>GReat Queene, (the ſumme of this great little book</p>
+                  <p>If your high Grace, will grace to euer<g ref="char:EOLhyphen"/>looke.</p>
+                  <pb facs="tcp:184136:4"/>
+                  <p>I know your good<g ref="char:EOLhyphen"/>neſſe, puts diſdaine to flight,</p>
+                  <p>And though de<g ref="char:EOLhyphen"/>traction barke, ſhee dares not bite.</p>
+                  <closer>
+                     <signed>IO. TAYLOR</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:184136:4"/>
+                  <head>To the Reader.</head>
+                  <p>THou that this little booke doſt take in hand,</p>
+                  <p>Before thou iudge bee ſure to vnder<g ref="char:EOLhyphen"/>ſtand.</p>
+                  <pb facs="tcp:184136:5"/>
+                  <p>And as thy kind<g ref="char:EOLhyphen"/>neſſe thou extend'ſt to me,</p>
+                  <p>At any time Ile doe as much for thee.</p>
+                  <closer>
+                     <signed>Thine IO. TAYLOR</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:184136:5"/>
+                  <div type="book">
+                     <head>Geneſis.</head>
+                     <p>IEhouah heere, of nothing, all things makes,</p>
+                     <p>And man be<g ref="char:EOLhyphen"/>fore all things his. God forſakes.</p>
+                     <pb facs="tcp:184136:6"/>
+                     <p>Yet by th'al<g ref="char:EOLhyphen"/>mighties mercy, twas decreed,</p>
+                     <p>Heau'ns Heire ſhould ſatisfie for mans miſdeed.</p>
+                     <pb facs="tcp:184136:6"/>
+                     <p>Mans age is long, and all are great, not good,</p>
+                     <p>And all (ſaue eight) are drow<g ref="char:EOLhyphen"/>ned in the floud.</p>
+                     <pb facs="tcp:184136:7"/>
+                     <p>Old <hi>Noah,</hi> ſe<g ref="char:EOLhyphen"/>cond Sire to worſt and beſt.</p>
+                     <p>Of <hi>Cham</hi> the curſt, <hi>Japhet</hi> and <hi>Sem</hi> the bleſt.</p>
+                     <pb facs="tcp:184136:7"/>
+                     <p>Of <hi>Abrams</hi> ſtarre-like num<g ref="char:EOLhyphen"/>berleſſe encreaſe</p>
+                     <p>Of of-springs of-springs, and his reſt in peace.</p>
+                     <pb facs="tcp:184136:8"/>
+                     <p>Of <hi>Iſraels</hi> go<g ref="char:EOLhyphen"/>ing into <hi>Egypt,</hi> and</p>
+                     <p>Of their abode and liuing in that land.</p>
+                     <pb facs="tcp:184136:8"/>
+                     <p>Of <hi>I<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſephs</hi> bre<g ref="char:EOLhyphen"/>thren, faithleſſe, and vnkinde,</p>
+                     <p>Of his firme faith, and euer conſtant minde.</p>
+                     <pb facs="tcp:184136:9"/>
+                     <p>He pardons the<g ref="char:cmbAbbrStroke">̄</g> that did his death deuiſe</p>
+                     <p>Heſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es his chil<g ref="char:EOLhyphen"/>drens children, and he dies.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:9"/>
+                     <head>Exodus.</head>
+                     <p>Th'encreaſe of <hi>Iacobs</hi> ſtocke is grown paſt nu<g ref="char:cmbAbbrStroke">̄</g>ber,</p>
+                     <p>And feare of them, th'<hi>Egyptian</hi> king doth cumber</p>
+                     <pb facs="tcp:184136:10"/>
+                     <p>Who giuing credit to th'in<g ref="char:EOLhyphen"/>chanters tales,</p>
+                     <p>Commands to kill all infant He<g ref="char:EOLhyphen"/>brew males.</p>
+                     <pb facs="tcp:184136:10"/>
+                     <p>But <hi>Moſes</hi> is pre<g ref="char:EOLhyphen"/>ſerued in the ri<g ref="char:EOLhyphen"/>uer,</p>
+                     <p>To be a Cap<g ref="char:EOLhyphen"/>taine <hi>Iſrael</hi> to de<g ref="char:EOLhyphen"/>liuer.</p>
+                     <pb facs="tcp:184136:11"/>
+                     <p>Sterne <hi>Pharaohs</hi> Ciuel adamantine heart</p>
+                     <p>Will not per<g ref="char:EOLhyphen"/>mit Gods People to depart.</p>
+                     <pb facs="tcp:184136:11"/>
+                     <p>Ten plagues fro<g ref="char:cmbAbbrStroke">̄</g> heau'n are on th E<g ref="char:EOLunhyphen"/>gyptians powrde, Bloud, frogs, lice, flies, beaſts ſcabs, haile thundring ſhowrd,
+<pb facs="tcp:184136:12"/>Graſhopers, dark<g ref="char:EOLhyphen"/>neſſe, death of firſt borne men.</p>
+                     <p>Theſe were th'E<g ref="char:EOLhyphen"/>gyptian plagues, in number ten.</p>
+                     <pb facs="tcp:184136:12"/>
+                     <p>The Iſr'alites are freed, and <hi>Pharohs</hi> hoſt</p>
+                     <p>In chaſing them, are in the Red ſea loſt.</p>
+                     <pb facs="tcp:184136:13"/>
+                     <p>A clowde doth ſhrowd them from the burning day,</p>
+                     <p>By night a firie piller guides their way.</p>
+                     <pb facs="tcp:184136:13"/>
+                     <p>The murm'ring people, fearing fa<g ref="char:EOLhyphen"/>mine, railes, God raines down Manna from the heau'n &amp; quailes.</p>
+                     <pb facs="tcp:184136:14"/>
+                     <p>The Law is writ in ſtone, (to <hi>Moſes</hi> giuen)</p>
+                     <p>By Gods owne hand to guid men vnto heau'n.</p>
+                     <pb facs="tcp:184136:14"/>
+                     <p>The Ceremoni<g ref="char:EOLhyphen"/>all ſacrifice is taught,</p>
+                     <p>As ripes of who<g ref="char:cmbAbbrStroke">̄</g> our breſt redemp<g ref="char:EOLhyphen"/>tion's wrought.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:15"/>
+                     <head>Leuiticus</head>
+                     <p>Heere man is ſhewd, it is the al<g ref="char:EOLhyphen"/>mighties will,</p>
+                     <p>To guard the good, and to cor<g ref="char:EOLhyphen"/>rect the ill.</p>
+                     <pb facs="tcp:184136:15"/>
+                     <p>The trueſt ſer<g ref="char:EOLhyphen"/>uice of the high<g ref="char:EOLhyphen"/>eſt ſtands</p>
+                     <p>In no mans fan<g ref="char:EOLhyphen"/>cie but as he com<g ref="char:EOLhyphen"/>mands.</p>
+                     <pb facs="tcp:184136:16"/>
+                     <p>And cauſe men are ſo apt, from grace to ſwerue.</p>
+                     <p>He ſhewes them here, their maker how to ſerue.</p>
+                     <pb facs="tcp:184136:16"/>
+                     <p>The <hi>Leuite</hi> are appointed by the Lord</p>
+                     <p>To preach vnto his choſen flocke, the word.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:17"/>
+                     <head>Numbers</head>
+                     <p>Old <hi>Iacobs</hi> bleſ<g ref="char:EOLhyphen"/>ſed ofſpring num<g ref="char:EOLhyphen"/>bred are,</p>
+                     <p>Their valient captaines &amp; their men of warre.</p>
+                     <pb facs="tcp:184136:17"/>
+                     <p>Curſt <hi>Korah,</hi> with his kinſman deſp'rate <hi>Dathan,</hi>
+                     </p>
+                     <p>And bold <hi>Abi<g ref="char:EOLhyphen"/>ram,</hi> (three ſworne ſonnes of Sathan)</p>
+                     <pb facs="tcp:184136:18"/>
+                     <p>Rebell gainſt <hi>Moſes,</hi> with their tongs vnhalowed And by the earth, by heau'ns iuſt vengance ſwal<g ref="char:EOLhyphen"/>lowed.</p>
+                     <pb facs="tcp:184136:18"/>
+                     <p>The Iſralites to fell confuſion brings</p>
+                     <p>Great <hi>Og,</hi> and <hi>Sibon,</hi> misbelee<g ref="char:EOLhyphen"/>uing kings.</p>
+                     <pb facs="tcp:184136:19"/>
+                     <p>Where <hi>Balaam</hi> thought to curſe, of force he bleſt,</p>
+                     <p>And by his Aſſe was told how hee tranſgreſt.</p>
+                     <pb facs="tcp:184136:19"/>
+                     <p>Fiue Midian Monarchs, <hi>Iudaes</hi> hoſt doth ſlay,</p>
+                     <p>And all their ſpoile diuided at a pray,</p>
+                     <pb facs="tcp:184136:20"/>
+                     <p>The land of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> meaſur'd is, and found,</p>
+                     <p>That in it all things plenteous doth abound.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:20"/>
+                     <head>Deuteronomy</head>
+                     <p>This booke a<g ref="char:EOLhyphen"/>gaine the Law of God repeates,</p>
+                     <p>With bleſſings, curſings techings and with threats.
+<pb facs="tcp:184136:21"/>Meeke <hi>Moſes</hi> dies, lies in an vnknown toome,</p>
+                     <p>And <hi>Nunns</hi> ſon <hi>(Ioſuah)</hi> doth ſup<g ref="char:EOLhyphen"/>ply his roome.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:21"/>
+                     <head>Joſhua</head>
+                     <p>Great captaine <hi>Joſhua,</hi> great in faith and courage</p>
+                     <p>Through grea<g ref="char:EOLhyphen"/>teſt dangers vali<g ref="char:EOLhyphen"/>antly doth forrage</p>
+                     <pb facs="tcp:184136:22"/>
+                     <p>He paſſeth <hi>Ior<g ref="char:EOLhyphen"/>den</hi> with his migh<g ref="char:EOLhyphen"/>tie hoſt,</p>
+                     <p>And to the Tribes diuideth coaſt from coaſt.</p>
+                     <pb facs="tcp:184136:22"/>
+                     <p>The harlot <hi>(Ra<g ref="char:EOLhyphen"/>bab)</hi> doth preſerue the ſpies,</p>
+                     <p>Shee knowes the Lord that raignes aboue the skies.</p>
+                     <pb facs="tcp:184136:23"/>
+                     <p>They all paſſe <hi>Iorden,</hi> which is parted drie,</p>
+                     <p>Whilſt they ſe<g ref="char:EOLhyphen"/>curely march in<g ref="char:EOLhyphen"/>uaſiuely.</p>
+                     <pb facs="tcp:184136:23"/>
+                     <p>The feare of <hi>Cananites</hi> doth much encreaſe,</p>
+                     <p>
+                        <hi>Iericoes</hi> rane, &amp; Manna here doth ceaſe.</p>
+                     <pb facs="tcp:184136:24"/>
+                     <p>Viſe <hi>Achan</hi> cloſ<g ref="char:EOLhyphen"/>ly ſteales the cur<g ref="char:EOLhyphen"/>ſed prey.</p>
+                     <p>And <hi>Iſr'els</hi> bea<g ref="char:EOLhyphen"/>ten from the wals of <hi>Ai.</hi>
+                     </p>
+                     <pb facs="tcp:184136:24"/>
+                     <p>Fiue Kings are hangd, and <hi>Phebus</hi> ſtandeth ſtill</p>
+                     <p>At <hi>Ioſuah's</hi> prai'r whilſt hee his foes did kill.</p>
+                     <pb facs="tcp:184136:25"/>
+                     <p>Iuſt one &amp; thir<g ref="char:EOLhyphen"/>tie mighty kings were ſlaine,</p>
+                     <p>Ere <hi>Iſ<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>el</hi> could in peace the land attaine.</p>
+                     <pb facs="tcp:184136:25"/>
+                     <p>Which beeing done, the bloody warres doth ceaſe</p>
+                     <p>Their faithfull captaine <hi>(Ioſhua)</hi> dies in peace.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:26"/>
+                     <head>Iudges</head>
+                     <p>
+                        <hi>Iuda</hi> is captaine <hi>Anaks</hi> ſonnes are ſlaine,</p>
+                     <p>The Cananite, as vaſſais doth re<g ref="char:EOLhyphen"/>maine:</p>
+                     <pb facs="tcp:184136:26"/>
+                     <p>The Iſraelites rebell and ſerue ſtrange gods, And are al plagu'd with heauens cor<g ref="char:EOLhyphen"/>recting rods.</p>
+                     <pb facs="tcp:184136:27"/>
+                     <p>The men of <hi>M<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>dea, Iſ<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>el</hi> much doth greeue,</p>
+                     <p>Stout <hi>Gideon</hi> comes, their ſor<g ref="char:EOLhyphen"/>rowes to releeue.</p>
+                     <pb facs="tcp:184136:27"/>
+                     <p>And as Gods ſpirit doth his ſer<g ref="char:EOLhyphen"/>uant moue,</p>
+                     <p>He ouerthrows <hi>Baals</hi> altar and his groue.</p>
+                     <pb facs="tcp:184136:28"/>
+                     <p>A womans hand King <hi>Iabins</hi> hoſte doth quaile,</p>
+                     <p>And ki<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>de his Captaine <hi>Si<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>'ra,</hi> with a naile.</p>
+                     <pb facs="tcp:184136:28"/>
+                     <p>
+                        <hi>Ahimel<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ch</hi> (by wrong) the king<g ref="char:EOLhyphen"/>lome gaines,</p>
+                     <p>A woman daſht out his ambitious braines.</p>
+                     <pb facs="tcp:184136:29"/>
+                     <p>Victorious <hi>Iph<g ref="char:EOLhyphen"/>tah,</hi> raſhly ſweares (not good)</p>
+                     <p>And endes his conqueſt in his daughters blood,</p>
+                     <pb facs="tcp:184136:29"/>
+                     <p>Great <hi>Samſon's</hi> borne, whoſe euer matchles ſtre<g ref="char:cmbAbbrStroke">̄</g>gth</p>
+                     <p>Orethrowes the <hi>Philiſtims,</hi> in breadth &amp; length.</p>
+                     <pb facs="tcp:184136:30"/>
+                     <p>Faire flattering <hi>Delilah,</hi> her Lord deceiues,</p>
+                     <p>Hee's tane him<g ref="char:EOLhyphen"/>ſelfe, himſelfe of life bereaues.</p>
+                     <pb facs="tcp:184136:30"/>
+                     <p>The <hi>Beniamites</hi> abuſde a <hi>Leuites</hi> wife,</p>
+                     <p>For which all (but ſix hundred) loſt their life.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:31"/>
+                     <head>Ruth</head>
+                     <p>(According to the fleſh) this wo<g ref="char:EOLhyphen"/>man <hi>Ruth</hi>
+                     </p>
+                     <p>Was ancient Grandam to th'e<g ref="char:EOLhyphen"/>ternall truth:</p>
+                     <pb facs="tcp:184136:31"/>
+                     <p>And though ſhe from the <hi>Moabites</hi> doth come,</p>
+                     <p>It ſhewes th'al<g ref="char:EOLhyphen"/>mighty in al lands hathſome.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:32"/>
+                     <head>
+                        <hi>1</hi> Samuel</head>
+                     <p>The Prophet <hi>Samuel's</hi> borne, &amp; <hi>Elies</hi> ſonnes</p>
+                     <p>To ſinne and flat confuſion head<g ref="char:EOLhyphen"/>long runnes,</p>
+                     <pb facs="tcp:184136:32"/>
+                     <p>The <hi>Iſralites,</hi> are by the Lord for<g ref="char:EOLhyphen"/>ſaken.</p>
+                     <p>And by the <hi>Phi<g ref="char:EOLhyphen"/>liſtines</hi> the Arke is taken,</p>
+                     <pb facs="tcp:184136:33"/>
+                     <p>The figur'd pre<g ref="char:EOLhyphen"/>ſence of this All in All,</p>
+                     <p>Doth make the Diu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is inuention Dagon fall.</p>
+                     <pb facs="tcp:184136:33"/>
+                     <p>God takes his people to his loue againe,</p>
+                     <p>The Ark's broght backe, the Phili<g ref="char:EOLhyphen"/>ſtines are ſlaine.</p>
+                     <pb facs="tcp:184136:34"/>
+                     <p>The ſons of <hi>Sa<g ref="char:EOLhyphen"/>m'uel,</hi> wrong their Fathers truſt,</p>
+                     <p>By partial iudge<g ref="char:EOLhyphen"/>ments, and with bribes vniuſt.</p>
+                     <pb facs="tcp:184136:34"/>
+                     <p>
+                        <hi>Saul</hi> ſeeking ſtraying Aſſes, findes a crowne,</p>
+                     <p>And is anoin<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed King in <hi>Raman</hi> towne.</p>
+                     <pb facs="tcp:184136:35"/>
+                     <p>The fel Phili<g ref="char:EOLhyphen"/>ſtines, <hi>Iſ'rel</hi> doth oppreſſe,</p>
+                     <p>King <hi>Saul</hi> doth proudly gainſt the Lord tranſgreſſe</p>
+                     <pb facs="tcp:184136:35"/>
+                     <p>God bids kill <hi>Agag, Saul</hi> will haue him ſpar'd,</p>
+                     <p>His will, more then his Gods, hee doth regard.</p>
+                     <pb facs="tcp:184136:36"/>
+                     <p>
+                        <hi>Goliah</hi> armed leades an hoſt from Gath,</p>
+                     <p>Defies the Lord of Hoſts, prouoks his wrath.</p>
+                     <pb facs="tcp:184136:36"/>
+                     <p>Young <hi>Dauid</hi> comes, and in his hand a fling,</p>
+                     <p>And with a ſtone the giant downe doth ding.</p>
+                     <pb facs="tcp:184136:37"/>
+                     <p>Old <hi>Iſhay:</hi> ſon, before the king's preferd,</p>
+                     <p>And <hi>Dauid</hi> hath <hi>Sauls</hi> daughter for reward.</p>
+                     <pb facs="tcp:184136:37"/>
+                     <p>Th'ingratefull king ſeekes <hi>Dauids</hi> cauſeleſſe death,</p>
+                     <p>True hearted <hi>Jonathan</hi> preſerus his breath.</p>
+                     <pb facs="tcp:184136:38"/>
+                     <p>
+                        <hi>Saul</hi> leaues his God, and to a Witch doth goe,</p>
+                     <p>And ſo himſelfe, himſelfe doth o<g ref="char:EOLhyphen"/>uerthroe.</p>
+                     <pb facs="tcp:184136:38"/>
+                     <p>The <hi>Philiſtines</hi> his childrens blud did ſpill,</p>
+                     <p>And with his ſword king <hi>Saul,</hi> king <hi>Saul</hi> did kill.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:39"/>
+                     <head>
+                        <hi>2</hi> Samuel</head>
+                     <p>King <hi>Dauids</hi> roi<g ref="char:EOLhyphen"/>all heart is fild with woe,</p>
+                     <p>For <hi>Ionathan</hi> &amp; <hi>Saul</hi> his friend, and foe.</p>
+                     <pb facs="tcp:184136:39"/>
+                     <p>In Regall ſtate he liues and flou<g ref="char:EOLhyphen"/>riſheth,</p>
+                     <p>And loues <hi>Sauls</hi> Grandchild <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ame <hi>Mephiboſheth.</hi>
+                     </p>
+                     <pb facs="tcp:184136:40"/>
+                     <p>Affection blinds him on <hi>Vrias</hi> wife,</p>
+                     <p>T'accompliſh which, her huſ<g ref="char:EOLhyphen"/>band loſt his life.</p>
+                     <pb facs="tcp:184136:40"/>
+                     <p>The king's re<g ref="char:EOLhyphen"/>prou'd by <hi>Nathan,</hi> and repents,</p>
+                     <p>And by repen<g ref="char:EOLhyphen"/>ting, heau'ns high wrath preuents.</p>
+                     <pb facs="tcp:184136:41"/>
+                     <p>Inceſtuous <hi>Am<g ref="char:EOLhyphen"/>nen, Abſolon</hi> doth kill,</p>
+                     <p>For forcing <hi>Ta mar</hi> gainſt her vir<g ref="char:EOLunhyphen"/>gin will.</p>
+                     <pb facs="tcp:184136:41"/>
+                     <p>Hee's reco<g ref="char:cmbAbbrStroke">̄</g>cilde vnto his louing fire,</p>
+                     <p>And pr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>udly to the kingdome doth aſpire.</p>
+                     <pb facs="tcp:184136:42"/>
+                     <p>The old king flees and ouer <hi>Ior<g ref="char:EOLhyphen"/>dan</hi> hies,</p>
+                     <p>The ſonne pur<g ref="char:EOLhyphen"/>ſuing and the Fa<g ref="char:EOLhyphen"/>ther flies.</p>
+                     <pb facs="tcp:184136:42"/>
+                     <p>
+                        <hi>Achitophel</hi> him<g ref="char:EOLhyphen"/>ſelfe hangs in di<g ref="char:EOLhyphen"/>ſpaire,</p>
+                     <p>And <hi>Ab<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>olom</hi> dies hanged by the hai<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</p>
+                     <pb facs="tcp:184136:43"/>
+                     <p>The King for his rebellious ſon doth mourne,</p>
+                     <p>His people num<g ref="char:EOLhyphen"/>bred are at his re<g ref="char:EOLhyphen"/>turne,</p>
+                     <pb facs="tcp:184136:43"/>
+                     <p>The Lord is warth, the peſti<g ref="char:EOLhyphen"/>lence encreaſt,</p>
+                     <p>That ſeuenty thouſand dies, &amp; then it ceaſt.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:44"/>
+                     <head>
+                        <hi>1</hi> Kings</head>
+                     <p>The kingly Pro<g ref="char:EOLhyphen"/>phet (valient <hi>Da<g ref="char:EOLhyphen"/>uid</hi> dies,</p>
+                     <p>His throne is left to <hi>Salomon</hi> the wiſe.</p>
+                     <pb facs="tcp:184136:44"/>
+                     <p>Falfe <hi>Adoniah, Ioab, Shimei</hi> kild.</p>
+                     <p>By his co<g ref="char:cmbAbbrStroke">̄</g>mand, as erſt his father wild.</p>
+                     <pb facs="tcp:184136:45"/>
+                     <p>With ſpeed hee ſends for workme<g ref="char:cmbAbbrStroke">̄</g> from farre coaſts,</p>
+                     <p>To build a tem<g ref="char:EOLhyphen"/>ple to the Lord of hoaſts,</p>
+                     <pb facs="tcp:184136:45"/>
+                     <p>Before or after him was neuer ſuch</p>
+                     <p>That had of wiſ<g ref="char:EOLunhyphen"/>dome or of wealth ſo much.</p>
+                     <pb facs="tcp:184136:46"/>
+                     <p>A thouſand wo<g ref="char:EOLhyphen"/>men, ſome wed, ſome vnwed,</p>
+                     <p>This wiſe king to Idolatry miſ<g ref="char:EOLhyphen"/>led.</p>
+                     <pb facs="tcp:184136:46"/>
+                     <p>He dies, and's buried by his fa<g ref="char:EOLhyphen"/>thers toome,</p>
+                     <p>And <hi>Rehoboam</hi> doth ſucceed his roome.</p>
+                     <pb facs="tcp:184136:47"/>
+                     <p>Now <hi>Iſrael</hi> from <hi>Iuda</hi> is diui<g ref="char:EOLhyphen"/>ded,</p>
+                     <p>Both kingdoms by bad kings are badly guided.</p>
+                     <pb facs="tcp:184136:47"/>
+                     <p>Yet God to <hi>Ia<g ref="char:EOLhyphen"/>cobs</hi> ſeede doth promiſe keepe,</p>
+                     <p>And raiſes faith<g ref="char:EOLhyphen"/>full paſtors for his ſheepe.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:48"/>
+                     <head>
+                        <hi>2</hi> Kings</head>
+                     <p>
+                        <hi>Eliah</hi> worketh wonders with his word,</p>
+                     <p>By inſpiration of the liuing Lord.</p>
+                     <pb facs="tcp:184136:48"/>
+                     <p>Hee's taken vp aliue, and his bleſt ſpirit,</p>
+                     <p>Doth doubly in <hi>E<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſhaes</hi> breaſt inherit.</p>
+                     <pb facs="tcp:184136:49"/>
+                     <p>Some Kings do gouerne wel, moſt gouerne ill,</p>
+                     <p>And what the good reformes, the bad doth ſpil.</p>
+                     <pb facs="tcp:184136:49"/>
+                     <p>Till <hi>Iſrel, Iuda,</hi> King, and king<g ref="char:EOLhyphen"/>domes loſt,</p>
+                     <p>To great <hi>Nabu<g ref="char:EOLhyphen"/>chadnezzar</hi> and his hoſt.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:50"/>
+                     <head>
+                        <hi>1</hi> Chronicles</head>
+                     <p>H<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere euery tribe is numbred by their names,</p>
+                     <p>To their memo<g ref="char:EOLhyphen"/>rial, and immor<g ref="char:EOLhyphen"/>tall fames.</p>
+                     <pb facs="tcp:184136:50"/>
+                     <p>And <hi>Dauids</hi> Acts t'inſtruct miſgui<g ref="char:EOLhyphen"/>ded men,</p>
+                     <p>Are briefly here recorded all agen.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:51"/>
+                     <head>
+                        <hi>2</hi> Chronicles</head>
+                     <p>The ſtate of <hi>Iſ<g ref="char:EOLhyphen"/>rel, Iuda</hi> and their kings,</p>
+                     <p>This booke a<g ref="char:EOLhyphen"/>gaine, againe re<g ref="char:EOLhyphen"/>cordance brings,</p>
+                     <pb facs="tcp:184136:51"/>
+                     <p>Their plagues of plague of famine, ſlau'ry, ſword,</p>
+                     <p>For their con<g ref="char:EOLhyphen"/>temning heau'ns Al-ſauing word.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:52"/>
+                     <head>Manaſſehs praier.</head>
+                     <p>
+                        <hi>Manaſſeh</hi> almoſt drownd in blacke diſpaire,</p>
+                     <p>Gaines mercie by repentance, &amp; by praier.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:52"/>
+                     <head>Ezra</head>
+                     <p>The <hi>Perſian</hi> Mo<g ref="char:EOLhyphen"/>nach <hi>(Cirus)</hi> gran<g ref="char:EOLhyphen"/>teth leaue,</p>
+                     <p>The <hi>Iewes</hi> once more their free<g ref="char:EOLhyphen"/>dom ſhold receiue</p>
+                     <pb facs="tcp:184136:53"/>
+                     <p>When at <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> they make a<g ref="char:EOLhyphen"/>bode.</p>
+                     <p>They all with zeale repaire the houſe of God.</p>
+                     <pb facs="tcp:184136:53"/>
+                     <p>Malitious men (with poyſnous malice fild)</p>
+                     <p>Makes <hi>Artax<g ref="char:EOLhyphen"/>erxes</hi> hinder thoſe that build.</p>
+                     <pb facs="tcp:184136:54"/>
+                     <p>Yet God ſo workes, that <hi>Iſ<g ref="char:EOLhyphen"/>rels</hi> loue &amp; zeale,</p>
+                     <p>Reſumes againe their Church and Common weale.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:54"/>
+                     <head>Nehemiah</head>
+                     <p>The booke of <hi>Ezra</hi> doth concord with this,</p>
+                     <p>Commanding good, forbidding what's amiſſe.</p>
+                     <pb facs="tcp:184136:55"/>
+                     <p>And godly <hi>Ne<g ref="char:EOLhyphen"/>hemiah</hi> heere re<g ref="char:EOLhyphen"/>formd</p>
+                     <p>What ſinne and ſathan had long time deform<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:55"/>
+                     <head>Eſter</head>
+                     <p>Heere he that dwels in heauen doth deride</p>
+                     <p>Queene <hi>Vſhty's</hi> and ambitious <hi>Hamans</hi> pride.</p>
+                     <pb facs="tcp:184136:56"/>
+                     <p>The Iewes are ſau'd by <hi>Eſters</hi> ſuit from death,</p>
+                     <p>And <hi>Heman</hi> and his ſons, hangd, loſe their breath.</p>
+                     <pb facs="tcp:184136:56"/>
+                     <p>Poore <hi>Mordecay</hi> is held in high ac<g ref="char:EOLhyphen"/>count,</p>
+                     <p>And to great greatneſſe humbly he doth mount</p>
+                     <pb facs="tcp:184136:57"/>
+                     <p>Thus God doth raiſe all thoſe his lawes that ſeeke,</p>
+                     <p>Hee laies the lofty low, exalts the meeke.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:57"/>
+                     <head>Iob</head>
+                     <p>No loſſe of ſons and daughters, goods and all,</p>
+                     <p>Makes not this man into impati<g ref="char:EOLhyphen"/>ence fall.</p>
+                     <pb facs="tcp:184136:58"/>
+                     <p>Aſſailing ſathan tempting wife, falſe friends.</p>
+                     <p>With perfect pa<g ref="char:EOLhyphen"/>tience he all woes defends.</p>
+                     <pb facs="tcp:184136:58"/>
+                     <p>I naked came (quoth hee) into this world,</p>
+                     <p>And naked hence againe I ſhall bee hurld.</p>
+                     <pb facs="tcp:184136:59"/>
+                     <p>God giues and takes, according to his word,</p>
+                     <p>And bleſſed e<g ref="char:EOLhyphen"/>uer be the liuing Lord.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:59"/>
+                     <head>Pſalmes</head>
+                     <p>The bleſſed king<g ref="char:EOLhyphen"/>ly Prophet ſweet<g ref="char:EOLhyphen"/>ly ſings</p>
+                     <p>Eternall praiſes to the King of Kings.</p>
+                     <pb facs="tcp:184136:60"/>
+                     <p>Gods power, iu<g ref="char:EOLhyphen"/>ſtice, mercy, fauor, looke</p>
+                     <p>For they are co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>prehended in this booke.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:60"/>
+                     <head>Prouerbs</head>
+                     <p>The wiſeſt man that euer man be<g ref="char:EOLhyphen"/>got,</p>
+                     <p>In heau'nly Pro<g ref="char:EOLhyphen"/>uerbs ſhews whats good, what not.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:61"/>
+                     <head>Eccleſiaſtes</head>
+                     <p>Health, ſtrength, wit, valour, wordly wiſdome, pelfe.</p>
+                     <p>Al's nought, &amp; worſe then vanity it ſelfe.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:61"/>
+                     <head>Salomons ſong</head>
+                     <p>This ſong may well bee cald the ſong of ſongs,</p>
+                     <p>It to the hea<g ref="char:EOLhyphen"/>uenly Bride, and Groome belongs.</p>
+                     <pb facs="tcp:184136:62"/>
+                     <p>It truely ſhewes Chriſts loue vnto his loue,</p>
+                     <p>His Church, his wife, his virgin ſpouſe, his doue.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:62"/>
+                     <head>Iſayah</head>
+                     <p>This worthy Prophet truly doth foretell,</p>
+                     <p>How Chriſt ſhal come to conquer death and hell.</p>
+                     <pb facs="tcp:184136:63"/>
+                     <p>Rewards vnto the godlie hee repeates,</p>
+                     <p>And to the god<g ref="char:EOLhyphen"/>leſſe hee denoun<g ref="char:EOLhyphen"/>ceth threats.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:63"/>
+                     <head>Ieremy</head>
+                     <p>This man of God long time before foreſhoes</p>
+                     <p>
+                        <hi>Ieruſalems</hi> Captiuity and woes.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:64"/>
+                     <head>Lamentations</head>
+                     <p>He wiſhes here his head a foun<g ref="char:EOLhyphen"/>taine deepe</p>
+                     <p>That he might weepe, weepe, no<g ref="char:EOLhyphen"/>thing elſe but weepe.</p>
+                     <pb facs="tcp:184136:64"/>
+                     <p>That hee might guſh forth flowing ſtreames of teares</p>
+                     <p>For <hi>Iuda's</hi> thral<g ref="char:EOLhyphen"/>dome, miſerie, and feares.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:65"/>
+                     <head>Ezechiel.</head>
+                     <p>In <hi>Babylon</hi> this Prophet captiue is,</p>
+                     <p>And there hee propheſies of bale and bliſſe.</p>
+                     <pb facs="tcp:184136:65"/>
+                     <p>How all muſt come to paſſe the Lord hath ſaid,</p>
+                     <p>How iudgement ſurely comes, al<g ref="char:EOLhyphen"/>though delaid.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:66"/>
+                     <head>Daniel</head>
+                     <p>The Kings dark dreame the Pro<g ref="char:EOLhyphen"/>phet doth expou<g ref="char:cmbAbbrStroke">̄</g>d</p>
+                     <p>For which hee's highly honor'd &amp; <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nownd.</p>
+                     <pb facs="tcp:184136:66"/>
+                     <p>
+                        <hi>Nabuchadnezar</hi> doth an image frame,</p>
+                     <p>Commands al, pain of death t'a<g ref="char:EOLhyphen"/>dore the ſame.</p>
+                     <pb facs="tcp:184136:67"/>
+                     <p>Three godly <hi>Iews</hi> by no meanes will fall downe,</p>
+                     <p>And for con<g ref="char:EOLhyphen"/>tempt are in the furnace throwne.</p>
+                     <pb facs="tcp:184136:67"/>
+                     <p>Where midſt the flames vnhurt they ſweetly ſing,</p>
+                     <p>Which wonder doth conuert the tyrant King.</p>
+                     <pb facs="tcp:184136:68"/>
+                     <p>Here <hi>Daniel</hi> pro<g ref="char:EOLhyphen"/>phecies of Chriſt to come,</p>
+                     <p>Of <hi>Babel, Perſia, Gracia,</hi> and <hi>Rome.</hi>
+                     </p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:68"/>
+                     <head>Hoſea</head>
+                     <p>He tels miſgo<g ref="char:EOLhyphen"/>uern'd <hi>Iſrdel</hi> their ſinnes,</p>
+                     <p>And how the loſſe of grace de<g ref="char:EOLhyphen"/>ſtruction winnes.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:69"/>
+                     <head>Ioel</head>
+                     <p>This Prophet tels the ſtubborne hearted Iewes,</p>
+                     <p>How heau'ns conſuming wrath apace enſues.</p>
+                     <pb facs="tcp:184136:69"/>
+                     <p>Hee therefore doth perſwade the<g ref="char:cmbAbbrStroke">̄</g> to contrition,</p>
+                     <p>And by contri<g ref="char:EOLhyphen"/>tion they ſhal haue remiſſion.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:70"/>
+                     <head>Amos</head>
+                     <p>Mans thankeleſſe heart, and gods vnmeaſurd loue,</p>
+                     <p>This Prophet doth to <hi>Iſrels</hi> faces proue.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:70"/>
+                     <head>Obadiah</head>
+                     <p>He comforts <hi>Iu<g ref="char:EOLhyphen"/>dah</hi> (ouerpreſt with woes,</p>
+                     <p>And propheſies deſtruction of their foes.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:71"/>
+                     <head>Ionah</head>
+                     <p>Heere Ionah tels the <hi>Niniuites,</hi> except</p>
+                     <p>Repentance, wrath of heau'n doth intercept,</p>
+                     <pb facs="tcp:184136:71"/>
+                     <p>In forty daies, high, low, rich poore, great, ſmal</p>
+                     <p>The Lords hot fury ſhal conſume them all.</p>
+                     <pb facs="tcp:184136:72"/>
+                     <p>With hearts vn<g ref="char:EOLunhyphen"/>faign'd, the ſinne<g ref="char:EOLhyphen"/>full City mournes</p>
+                     <p>The Lord grants mercy, <hi>Ionah</hi> back returnes.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:72"/>
+                     <head>Micah</head>
+                     <p>He ſpeakes of <hi>Iſrels</hi> and of <hi>Iuda's</hi> crimes,</p>
+                     <p>And tels them their confuſion comes betimes.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:73"/>
+                     <head>Nabum</head>
+                     <p>The <hi>Niniuites</hi> (a<g ref="char:EOLhyphen"/>gaine forſake the Lord,</p>
+                     <p>And are ſubdude by the <hi>Aſſirian</hi> ſword.</p>
+                     <pb facs="tcp:184136:73"/>
+                     <p>This Prophet comforts thoſe that are oppreſt,</p>
+                     <p>And tels the godly they ſhall be releaſt.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:74"/>
+                     <head>Habakkuk</head>
+                     <p>He doth bewaile th'oppreſſion of the poore,</p>
+                     <p>For mercy hum<g ref="char:EOLhyphen"/>bly, he doth God implore.</p>
+                     <pb facs="tcp:184136:74"/>
+                     <p>To keepe the captiu'd <hi>Iewes</hi> fro<g ref="char:cmbAbbrStroke">̄</g> fell diſpaire,</p>
+                     <p>He teaches them a heauenly forme of Praier.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:75"/>
+                     <head>Zephaniah</head>
+                     <p>He fils the good with hope, the bad with feare,</p>
+                     <p>And tels the <hi>Iews</hi> their thraldome draweth neere.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:75"/>
+                     <head>Haggay</head>
+                     <p>H'exhorteth the<g ref="char:cmbAbbrStroke">̄</g> to patience in their paine,</p>
+                     <p>And bids them build the temple once againe.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:76"/>
+                     <head>Zechariah</head>
+                     <p>He tels the <hi>Iews</hi> why they haue plagued been,</p>
+                     <p>Hee bids them ſhun Idolatry and ſinne.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:76"/>
+                     <head>Malachi</head>
+                     <p>For ſin he doth reprooue both Prince and Prieſt,</p>
+                     <p>And ſhewes the comming both of <hi>Iohn</hi> and Chriſt</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:77"/>
+                     <head>Malachy</head>
+                     <p>Which Chriſt ſhall be a Sauiour vnto al,</p>
+                     <p>That with true faith obeyes his heau'nly call.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:77"/>
+                     <head>Apocrypha</head>
+                     <p>Theſe bookes doe all in generall intimate,</p>
+                     <p>The ſtate of good men and the reprobate.</p>
+                     <pb facs="tcp:184136:78"/>
+                     <p>In many places they doe ſeeme to vary,</p>
+                     <p>And beare a ſenſe from Scripture quite contrary.</p>
+                     <pb facs="tcp:184136:78"/>
+                     <p>In <hi>Tobit,</hi> and dame <hi>Iudith</hi> diſa<g ref="char:EOLhyphen"/>grees</p>
+                     <p>From text, and <hi>Razes,</hi> in the <hi>Ma<g ref="char:EOLhyphen"/>thabees.</hi>
+                     </p>
+                     <pb facs="tcp:184136:79"/>
+                     <p>For which the Church hath euer, held it fit</p>
+                     <p>To place them <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> themſelues from holy writ.</p>
+                     <pb facs="tcp:184136:79"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:184136:80"/>
+                  <pb facs="tcp:184136:80"/>
+                  <p>SALVATOR MVNDI</p>
+                  <p>Printed at <hi>London</hi> by JO BEALE for <hi>John Hamman</hi> 1616.</p>
+                  <pb facs="tcp:184136:81"/>
+                  <pb facs="tcp:184136:81"/>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:184136:82"/>
+                  <head>
+                     <hi>TO</hi> CHARLES, Prince of <hi>Great Britaine.</hi>
+                  </head>
+                  <pb facs="tcp:184136:82"/>
+                  <p>The Epiſtle.</p>
+                  <p>THou high-borne Of ſpring of the beſt of men,</p>
+                  <p>To thy prote<g ref="char:EOLhyphen"/>ction my vnlearned pen</p>
+                  <pb facs="tcp:184136:83"/>
+                  <p>Doth creepe for ſhelter; though my booke be ſmall,</p>
+                  <p>In ſubſtance, t' is no leſſe then all in all.</p>
+                  <pb facs="tcp:184136:83"/>
+                  <p>The Cedar ſhields the ſhrub from win<g ref="char:EOLhyphen"/>ters flawes,</p>
+                  <p>And Greatneſſe guards the leaſt, fro<g ref="char:cmbAbbrStroke">̄</g> Enuies Iawes.</p>
+                  <pb facs="tcp:184136:84"/>
+                  <p>So I the worſt, (that in theſe times doe write)</p>
+                  <p>Implores your Grace t'accept this worthleſſe mite.</p>
+                  <closer>
+                     <signed>IO. TAYL OR.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:184136:84"/>
+                  <head>To the Reader</head>
+                  <p>HEere, Reader, maiſt thou read (for little coſt)</p>
+                  <p>How thou waſt ranſom'd, when thou quite waſt loſt.</p>
+                  <pb facs="tcp:184136:85"/>
+                  <p>Mans graceleſnes, and Gods exceeding Grace</p>
+                  <p>Thou heere maiſt read, and ſee, in lit<g ref="char:EOLhyphen"/>tle ſpace.</p>
+                  <closer>
+                     <signed>I. T.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:184136:85"/>
+                  <div type="book">
+                     <head>S. Matthew.</head>
+                     <p>LO here the bleſſed Sonne of God and man (New borne) who was before all worlds began,</p>
+                     <pb facs="tcp:184136:86"/>
+                     <p>Of heau'nly ſeed th'eternall liuing Rocke</p>
+                     <p>Of humane race, of kingly Da<g ref="char:EOLhyphen"/>uids ſtocke.</p>
+                     <pb facs="tcp:184136:86"/>
+                     <p>Our bleſt Re<g ref="char:EOLhyphen"/>deemer, whom the Prophets old</p>
+                     <p>In their true preachings hadſo oft foretold</p>
+                     <pb facs="tcp:184136:87"/>
+                     <p>In figures, cere<g ref="char:EOLhyphen"/>monies, types and trops,</p>
+                     <p>He here fulfils their words, con<g ref="char:EOLhyphen"/>firms their hopes.</p>
+                     <pb facs="tcp:184136:87"/>
+                     <p>The worlds ſal<g ref="char:EOLhyphen"/>uations ſole and totall ſum.</p>
+                     <p>Poore mankinds Sauiour, leſus Chriſt is come.</p>
+                     <pb facs="tcp:184136:88"/>
+                     <p>From maried <hi>Mary,</hi> wife &amp; vir<g ref="char:EOLhyphen"/>gin ſprings</p>
+                     <p>This heauenly, earthly, ſupreme King of Kings.</p>
+                     <pb facs="tcp:184136:88"/>
+                     <p>Hee's naked born, &amp; in a man<g ref="char:EOLhyphen"/>ger laid,</p>
+                     <p>Where he and's mother (bleſſed wife and maid</p>
+                     <pb facs="tcp:184136:89"/>
+                     <p>Are by the Wiſe men ſought, and ſeeking found,</p>
+                     <p>And hauing found, their ioyes doe all abound.</p>
+                     <pb facs="tcp:184136:89"/>
+                     <p>Where they their loue, their zeale, their faith vnfold,</p>
+                     <p>And offer in<g ref="char:EOLhyphen"/>enſe, mirre, and pureſt gold.</p>
+                     <pb facs="tcp:184136:90"/>
+                     <p>Falſe hearted <hi>Herod</hi> ſeeketh to deſtroy</p>
+                     <p>This newborne infant, our eter<g ref="char:EOLhyphen"/>nall ioy.</p>
+                     <pb facs="tcp:184136:90"/>
+                     <p>But <hi>Ioſeph</hi> by a dreame is warn'd by night</p>
+                     <p>T'ward <hi>Egypt</hi> with the Babe to take his flight.
+<pb facs="tcp:184136:91"/>Amongſt th' Egyp<g ref="char:EOLhyphen"/>tians he not long ſoiournes,</p>
+                     <p>But backe to <hi>Naz'reth</hi> he again returnes.</p>
+                     <pb facs="tcp:184136:91"/>
+                     <p>To end the law the Babe was cir<g ref="char:EOLhyphen"/>cumciſ'd,</p>
+                     <p>And then by <hi>Iohn</hi> in <hi>Iorden</hi> was baptiz'd,</p>
+                     <pb facs="tcp:184136:92"/>
+                     <p>When loe the Father from his glorious throne</p>
+                     <p>Sends down the Holy ghoſt vpon his Sonne,</p>
+                     <pb facs="tcp:184136:92"/>
+                     <p>In likenes of a pure vnſpotted Doue,</p>
+                     <p>Which did his birth and baptiſm both approue.
+<pb facs="tcp:184136:93"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:184136:93"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                     </p>
+                     <pb facs="tcp:184136:94"/>
+                     <p>Now ſubtill Sa<g ref="char:EOLunhyphen"/>thans he attempt<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and tempts him,</p>
+                     <p>And faſting, to the wilderneſſe exempts him.</p>
+                     <pb facs="tcp:184136:94"/>
+                     <p>But Ieſus power the foule fiends power deſtroi'd,</p>
+                     <p>Commanding Sathan hence, <hi>Auoid, auoid.</hi>
+                     </p>
+                     <pb facs="tcp:184136:95"/>
+                     <p>The fearful diuel doth flee, Chriſt goes &amp; preaches, And in the moun<g ref="char:EOLhyphen"/>taine multitudes he teaches:</p>
+                     <pb facs="tcp:184136:95"/>
+                     <p>He ſaid, Repen<g ref="char:EOLhyphen"/>tance wipes away tranſgreſſings,</p>
+                     <p>And to the god<g ref="char:EOLhyphen"/>ly be pronounced bleſſings.</p>
+                     <pb facs="tcp:184136:96"/>
+                     <p>He makes the lame to goe, the blinde to ſee,</p>
+                     <p>Deafe heare, dumbe ſpeake, the leapers clenſed be.</p>
+                     <pb facs="tcp:184136:96"/>
+                     <p>The diuels from the poſſeſſed out he draue,</p>
+                     <p>The dead are raiſ'd, the poore the Goſpell haue.</p>
+                     <pb facs="tcp:184136:97"/>
+                     <p>Such things he doth, as none but God can doe.</p>
+                     <p>And al's to bring his flocke his fold vnto.</p>
+                     <pb facs="tcp:184136:97"/>
+                     <p>All that are la<g ref="char:EOLhyphen"/>den, come to mee (quoth he)</p>
+                     <p>And I will eaſe you, therefore come to me.</p>
+                     <pb facs="tcp:184136:98"/>
+                     <p>You of your hea<g ref="char:EOLhyphen"/>uie ſins I doe ac<g ref="char:EOLhyphen"/>quit,</p>
+                     <p>My yoke is eaſie and my burden's light.</p>
+                     <pb facs="tcp:184136:98"/>
+                     <p>Vpon <hi>Mount Ta<g ref="char:EOLhyphen"/>bor,</hi> there our bleſt Meſſias</p>
+                     <p>Doth ſhew him<g ref="char:EOLhyphen"/>ſelfe, with <hi>Moſes</hi> and <hi>Elias.</hi>
+                     </p>
+                     <pb facs="tcp:184136:99"/>
+                     <p>Yet all theſe mighty wonders that he wrought:</p>
+                     <p>Nor al the hea<g ref="char:EOLhyphen"/>u'nly teachings that he taught.</p>
+                     <pb facs="tcp:184136:99"/>
+                     <p>The ſtiffeneck'd ſtubborne Iewes could not conuert But they Remain obdurate, hard of heart.</p>
+                     <pb facs="tcp:184136:100"/>
+                     <p>The man (quoth ſom) by who<g ref="char:cmbAbbrStroke">̄</g> theſe things are done,</p>
+                     <p>It is the Car<g ref="char:EOLhyphen"/>penters, poore <hi>Io<g ref="char:EOLhyphen"/>ſephs</hi> ſonne.</p>
+                     <pb facs="tcp:184136:100"/>
+                     <p>Some ſaid how he theſe things to paſſe did bring</p>
+                     <p>By power of Bel<g ref="char:EOLhyphen"/>zebub th'infernal king.</p>
+                     <pb facs="tcp:184136:101"/>
+                     <p>Thus with the poyſon of their enuious tongues,</p>
+                     <p>They guerdon good with ill, and right with wrongs</p>
+                     <pb facs="tcp:184136:101"/>
+                     <p>His owne not knowes him, <hi>Iudas</hi> doth betray him.</p>
+                     <p>To <hi>Annas</hi> and to <hi>Caiphas</hi> they conuey him.</p>
+                     <pb facs="tcp:184136:102"/>
+                     <p>From <hi>Caiphan</hi> back to <hi>Annas,</hi> &amp; from thence</p>
+                     <p>Is ſent this euer<g ref="char:EOLhyphen"/>laſting bleſſed Prince.</p>
+                     <pb facs="tcp:184136:102"/>
+                     <p>Thus is this death, this ſin, this Sathan killer,</p>
+                     <p>Mongſt ſinfull wretches toſt fro<g ref="char:cmbAbbrStroke">̄</g> poſt to piller.</p>
+                     <pb facs="tcp:184136:103"/>
+                     <p>Hee's flouted, ſpitted on, deri<g ref="char:EOLhyphen"/>ded, ſtript,</p>
+                     <p>Hee's moſt vnmer<g ref="char:EOLhyphen"/>cifully ſcourg'd, and whipt,</p>
+                     <pb facs="tcp:184136:103"/>
+                     <p>By impious peo<g ref="char:EOLhyphen"/>ple hee's blaſ<g ref="char:EOLhyphen"/>phem'd and raild,</p>
+                     <p>And of the Iewes (in ſcorne) as king is hail'd.</p>
+                     <pb facs="tcp:184136:104"/>
+                     <p>He like a lambe vnto his death is led,</p>
+                     <p>Nail'd on the Croſſe for man, his heart-bloud ſhed.</p>
+                     <pb facs="tcp:184136:104"/>
+                     <p>He (after three daies) glorious doth ariſe;</p>
+                     <p>He leaues the ſinfull earth, and mounts the skies.</p>
+                     <pb facs="tcp:184136:105"/>
+                     <p>But firſt to his Diſciples hee ap<g ref="char:EOLhyphen"/>peares,</p>
+                     <p>Where he their drooping halfe ded ſpirits cheers</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:105"/>
+                     <head>S. Marke.</head>
+                     <p>
+                        <hi>S. Marke</hi> declares how bleſt bapti<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing <hi>Iohn,</hi>
+                     </p>
+                     <p>Forerunner was of Gods eternall Sonne.</p>
+                     <pb facs="tcp:184136:106"/>
+                     <p>Which <hi>Iohn</hi> in wilderneſſe bap<g ref="char:EOLhyphen"/>tiſes, teaches,</p>
+                     <p>And of contri<g ref="char:EOLhyphen"/>tion and remiſſion preaches.</p>
+                     <pb facs="tcp:184136:106"/>
+                     <p>Our Sauiour <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>alles no Phari<g ref="char:EOLhyphen"/>ſes or Scribes,</p>
+                     <p>Or princely peo<g ref="char:EOLhyphen"/>ple out of <hi>Iudah<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Tribes:</p>
+                     <pb facs="tcp:184136:107"/>
+                     <p>But <hi>Simon, An<g ref="char:EOLhyphen"/>drew, Iames</hi> and <hi>Iohn</hi> are thoſe</p>
+                     <p>Poore toiling Fiſhermen which Ieſus choſe</p>
+                     <pb facs="tcp:184136:107"/>
+                     <p>To ſhew that with the humbleſt ſmalleſt things</p>
+                     <p>God greateſt matters to perfe<g ref="char:EOLhyphen"/>ction brings.</p>
+                     <pb facs="tcp:184136:108"/>
+                     <p>By ſundry won<g ref="char:EOLhyphen"/>drous works our Sauiour Ieſus</p>
+                     <p>From ſin and Sa<g ref="char:EOLhyphen"/>than lab'reth to releaſe vs.</p>
+                     <pb facs="tcp:184136:108"/>
+                     <p>And in requi<g ref="char:EOLhyphen"/>tall the vngrate<g ref="char:EOLhyphen"/>full Iewes</p>
+                     <p>Deuiſe their bleſt Redeemer to abuſe.</p>
+                     <pb facs="tcp:184136:109"/>
+                     <p>Some inwardly doe hate him, ſome belye him,</p>
+                     <p>His ſeruants all forſake him, or deny him.</p>
+                     <pb facs="tcp:184136:109"/>
+                     <p>But <hi>Peter</hi> thou waſt bleſt in thy deniall,</p>
+                     <p>Of thy preſu<g ref="char:EOLhyphen"/>ming thou haſt found the triall.</p>
+                     <pb facs="tcp:184136:110"/>
+                     <p>Repentance waſht away thy frailties crimes,</p>
+                     <p>And thou a pat<g ref="char:EOLhyphen"/>terne art to after<g ref="char:EOLhyphen"/>times.</p>
+                     <pb facs="tcp:184136:110"/>
+                     <p>The ſonne and heire of neuer fa<g ref="char:EOLhyphen"/>ding heau'n</p>
+                     <p>Into the hands of ſinful men is gi<g ref="char:EOLhyphen"/>uen.</p>
+                     <pb facs="tcp:184136:111"/>
+                     <p>Hee dies, hee's buried, &amp; in glo<g ref="char:EOLhyphen"/>rie riſes,</p>
+                     <p>Triumphing o<g ref="char:EOLhyphen"/>uer all his foes de<g ref="char:EOLhyphen"/>uices.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:111"/>
+                     <head>S. Luke.</head>
+                     <p>Heere <hi>Marie,</hi> and old <hi>Zacharias</hi> ſings</p>
+                     <p>In ioyfull man<g ref="char:EOLhyphen"/>ner to the King of Kings.</p>
+                     <pb facs="tcp:184136:112"/>
+                     <p>And aged <hi>Sime<g ref="char:EOLhyphen"/>on</hi> in his armes doth take</p>
+                     <p>The Lord of life, and doth reioy<g ref="char:EOLhyphen"/>cings make.</p>
+                     <pb facs="tcp:184136:112"/>
+                     <p>Chriſt teaches, preaches mercy vnto all,</p>
+                     <p>That by amend<g ref="char:EOLhyphen"/>ment will for mer<g ref="char:EOLhyphen"/>cie call.</p>
+                     <pb facs="tcp:184136:113"/>
+                     <p>Hee's tane, and by falſe witneſſes accuſ'd.</p>
+                     <p>Hee's beaten, ſcoffed, ſcorned, and abuſ'd.</p>
+                     <pb facs="tcp:184136:113"/>
+                     <p>Hee's hang'd vp<g ref="char:EOLhyphen"/>on the Croſſe be<g ref="char:EOLhyphen"/>twixt two theeues</p>
+                     <p>The one doth raile on him, and one beleeues.</p>
+                     <pb facs="tcp:184136:114"/>
+                     <p>He dies, hee's buried; riſing he doth quell</p>
+                     <p>And conquer al <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is foes, ſin, death and hell.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:114"/>
+                     <head>S. Iohn.</head>
+                     <p>In the beginning was th'eternall word,</p>
+                     <p>The word with God was, and that word the Lord.</p>
+                     <pb facs="tcp:184136:115"/>
+                     <p>In the begin<g ref="char:EOLhyphen"/>ning the ſame word with God</p>
+                     <p>Was; and for e<g ref="char:EOLhyphen"/>uer hath with him aboad.</p>
+                     <pb facs="tcp:184136:115"/>
+                     <p>With it was al things made and made was nough<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> Without this word the which was made or wrought</p>
+                     <pb facs="tcp:184136:116"/>
+                     <p>Here Chriſts di<g ref="char:EOLhyphen"/>uinitie is told by <hi>Iohn,</hi>
+                     </p>
+                     <p>The bleſſed Tri<g ref="char:EOLhyphen"/>nity, one three, three one.</p>
+                     <pb facs="tcp:184136:116"/>
+                     <p>How God had now perform'd the oth he ſwore</p>
+                     <p>To <hi>Abram,</hi> and to <hi>Iſrael</hi> long be<g ref="char:EOLhyphen"/>fore.</p>
+                     <pb facs="tcp:184136:117"/>
+                     <p>How Chriſt ſhould come, to ranſome <hi>Adams</hi> loſſe,</p>
+                     <p>And ſatisfie Gods iuſtice on the Croſſe.</p>
+                     <pb facs="tcp:184136:117"/>
+                     <p>Though times and places far in ſunder be,</p>
+                     <p>Yet Prophets, and Euangeliſts agree.</p>
+                     <pb facs="tcp:184136:118"/>
+                     <p>In Ieſus birth, his doctrine, life and death,</p>
+                     <p>Whereby our dy<g ref="char:EOLhyphen"/>ing ſoules gaines liuing breath.</p>
+                     <pb facs="tcp:184136:118"/>
+                     <p>If all things ſhould be writ which erſt was don</p>
+                     <p>By Ieſus Chriſt (Gods euerlaſting Sonne.)</p>
+                     <pb facs="tcp:184136:119"/>
+                     <p>From Cratch to Croſſe, fro<g ref="char:cmbAbbrStroke">̄</g> cradle to his tombe</p>
+                     <p>To hold the books the world would ſcarce be roome.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:119"/>
+                     <head>Acts.</head>
+                     <p>Th' Apoſtles praiſing God, and ſinging ſongs,</p>
+                     <p>The holy Ghoſt in firy clouen tongues,</p>
+                     <pb facs="tcp:184136:120"/>
+                     <p>Deſcends vpon them, who are all inſpir'd</p>
+                     <p>With learned la<g ref="char:cmbAbbrStroke">̄</g>guages, adorn'd admir'd.</p>
+                     <pb facs="tcp:184136:120"/>
+                     <p>Saint <hi>Peter</hi> prea<g ref="char:EOLhyphen"/>ching, telles the people plaine,</p>
+                     <p>How they the li<g ref="char:EOLhyphen"/>uing Lord of life had ſlaine:</p>
+                     <pb facs="tcp:184136:121"/>
+                     <p>Some flout and mocke, remaining ſtubborne harted.</p>
+                     <p>And many ſoules peruerted, are co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>uerted.</p>
+                     <pb facs="tcp:184136:121"/>
+                     <p>The Church en<g ref="char:EOLhyphen"/>creaſes, daily nu<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>bers comes,</p>
+                     <p>And to the Goſ<g ref="char:EOLhyphen"/>pels furthring <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iues great ſums.</p>
+                     <pb facs="tcp:184136:122"/>
+                     <p>Falſe <hi>Ananias</hi> and his faithleſſe wife,</p>
+                     <p>In dreadful ma<g ref="char:EOLhyphen"/>ner loſt their wretched life.</p>
+                     <pb facs="tcp:184136:122"/>
+                     <p>The enui<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us peo<g ref="char:EOLhyphen"/>ple ſtone the mar<g ref="char:EOLhyphen"/>tyr <hi>Steuen,</hi>
+                     </p>
+                     <p>He praying for his foes; leaues earth for heauen.</p>
+                     <pb facs="tcp:184136:123"/>
+                     <p>The Churches archfoe, perſecu<g ref="char:EOLhyphen"/>ting <hi>Saul,</hi>
+                     </p>
+                     <p>Is made a con<g ref="char:EOLhyphen"/>uert, and a prea<g ref="char:EOLhyphen"/>ching <hi>Paul.</hi>
+                     </p>
+                     <pb facs="tcp:184136:123"/>
+                     <p>He's clapt in pri<g ref="char:EOLhyphen"/>ſon, manacled, &amp; fetter'd,</p>
+                     <p>And through his troubles, ſtil his zeale is better'd.</p>
+                     <pb facs="tcp:184136:124"/>
+                     <p>Th' Apoſtle <hi>Iames</hi> by <hi>Herod's</hi> put to death,</p>
+                     <p>And <hi>Herod</hi> eat with lice, loſt hatefull breath.</p>
+                     <pb facs="tcp:184136:124"/>
+                     <p>Th'increaſing Church amongſt the <hi>Gentiles</hi> ſpreds</p>
+                     <p>By <hi>Nero, Paul</hi> &amp; <hi>Peter</hi> loſt their heads.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:125"/>
+                     <head>Romans</head>
+                     <p>Th'apoſtle <hi>Pau<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> from <hi>Corinth</hi> writ to <hi>Rome,</hi>
+                     </p>
+                     <p>To ſtrength the<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> faith, &amp; tel the<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Chriſt is come,</p>
+                     <pb facs="tcp:184136:125"/>
+                     <p>He ſhewes how high and low, both Iew and Greeke</p>
+                     <p>Are one with God, who faith<g ref="char:EOLhyphen"/>fully him ſeeke.</p>
+                     <pb facs="tcp:184136:126"/>
+                     <p>He tels how ſi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in mortall bodie<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> lurks,</p>
+                     <p>How wee ar<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſau'd by faith, &amp; not by works.</p>
+                     <pb facs="tcp:184136:126"/>
+                     <p>In louing terms <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he people he <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oth moue,</p>
+                     <p>To faith, to <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ope, to charitie <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d loue.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:127"/>
+                     <head>
+                        <hi>1.</hi> Corinths.</head>
+                     <p>
+                        <hi>Paul</hi> to <hi>Corinthus</hi> from <hi>Phillippy</hi> ſends,</p>
+                     <p>Their zeale, &amp; faith hee louingly commends.</p>
+                     <pb facs="tcp:184136:127"/>
+                     <p>Hee tels them <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Gods ſeruice <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ey regard,</p>
+                     <p>Th'eternall <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>owne of life is <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eir reward.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:128"/>
+                     <head>
+                        <hi>2.</hi> Corinthians</head>
+                     <p>In this ſaint <hi>Paul</hi> ſends the Corin<g ref="char:EOLhyphen"/>thians word,</p>
+                     <p>Afflictions are the bleſſings of the Lord.</p>
+                     <pb facs="tcp:184136:128"/>
+                     <p>He doth deſire their faith may ſtill increaſe,</p>
+                     <p>He wiſhes their proſperitie and peace.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:129"/>
+                     <head>Galathians</head>
+                     <p>Hee tels them that their whole ſaluations cauſe</p>
+                     <p>Is all in Chriſt, and not in <hi>Moſes</hi> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>awes.</p>
+                     <pb facs="tcp:184136:129"/>
+                     <p>The law's a glaſſe where men their ſinnes doe ſee,</p>
+                     <p>And that by Chriſt wee onely ſaued be.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:130"/>
+                     <head>Epheſians</head>
+                     <p>
+                        <hi>Paul</hi> bids, Caſt off the old man with his vice,</p>
+                     <p>And put on <hi>Chriſt,</hi> our bleſt re<g ref="char:EOLhyphen"/>demptions price.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:130"/>
+                     <head>Philippians</head>
+                     <p>Hee bids them of falſe Teachers to beware,</p>
+                     <p>He telles them that humilitie is rare.</p>
+                     <pb facs="tcp:184136:131"/>
+                     <p>And though they liue here, in a vaile of ſtriffe,</p>
+                     <p>Yet for them is laid vp the crown of life.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:131"/>
+                     <head>Colloſſians.</head>
+                     <p>Th'Apoſtle doth reioice, and prai<g ref="char:EOLhyphen"/>ſeth God,</p>
+                     <p>That theſe <hi>Col<g ref="char:EOLhyphen"/>loſſians</hi> in true faith abode.</p>
+                     <pb facs="tcp:184136:132"/>
+                     <p>Hee praiſeth them, he bids the<g ref="char:cmbAbbrStroke">̄</g> watch and pray.</p>
+                     <p>That ſinne and Satan worke not their decay.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:132"/>
+                     <head>
+                        <hi>1</hi> Theſſalonians.</head>
+                     <p>Hee thanketh God his labour's not in vaine,</p>
+                     <p>So ſtedfaſt in the faith, theſe men remaine</p>
+                     <pb facs="tcp:184136:133"/>
+                     <p>That they to o<g ref="char:EOLhyphen"/>thers are a bleſ<g ref="char:EOLhyphen"/>ſed light,</p>
+                     <p>By their exam<g ref="char:EOLhyphen"/>ple how to liue spright.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:133"/>
+                     <head>
+                        <hi>2.</hi> Theſſalonians.</head>
+                     <p>Againe to them hee louingly doth write:</p>
+                     <p>Hee bids them pray, the Goſpell proſper might.</p>
+                     <pb facs="tcp:184136:134"/>
+                     <p>He wiſhes them proſperitie and wealth,</p>
+                     <p>And in the end ſoules euerlaſting health.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:134"/>
+                     <head>
+                        <hi>1.</hi> &amp; <hi>2.</hi> to Timothy</head>
+                     <p>
+                        <hi>Paul</hi> ſhewes to <hi>Timothy,</hi> a Biſhop muſt</p>
+                     <p>In life and do<g ref="char:EOLhyphen"/>ctrine bee ſincere and iuſt.</p>
+                     <pb facs="tcp:184136:135"/>
+                     <p>And how the Scriptures, power haue to perſwade</p>
+                     <p>Whereby the man of God is perfect made.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:135"/>
+                     <head>Titus.</head>
+                     <p>To <hi>Titus</hi> (mongſt the <hi>Creetans</hi>) <hi>Paul</hi> doth ſend,</p>
+                     <p>And warns him what t'allow, or reprehend.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:136"/>
+                     <head>Philemon</head>
+                     <p>
+                        <hi>Paul</hi> earneſtly the maſter doth requeſt</p>
+                     <p>To pardon his poore man that had tranſgreſt</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:136"/>
+                     <head>Hebrewes.</head>
+                     <p>Although this booke doth beare no Authors name, It ſhews the lews how they their liues ſhuld frame.</p>
+                     <pb facs="tcp:184136:137"/>
+                     <p>And that the Ceremoniall law is ended</p>
+                     <p>In Chriſt, in whom all grace is comprehended.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:137"/>
+                     <head>S. Iame<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</head>
+                     <p>Heare, ſpeake, and doe well, the Apoſtle ſaith,</p>
+                     <p>For by thy works, a man may ſee thy faith.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:138"/>
+                     <head>
+                        <hi>1.</hi> &amp; <hi>2.</hi> to Peter.</head>
+                     <p>He counſels vs, be ſober, watch, and pray.</p>
+                     <p>And ſtill be rea<g ref="char:EOLhyphen"/>die for the Iudge<g ref="char:EOLhyphen"/>ment day.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:138"/>
+                     <head>
+                        <hi>1, 2</hi> &amp; <hi>3.</hi> of Iohn</head>
+                     <p>He ſhewes Chriſt di'de, and from the graue aroſe.</p>
+                     <p>To ſaue his friends, &amp; to con<g ref="char:EOLhyphen"/>found his foes</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:139"/>
+                     <head>S. Iude.</head>
+                     <p>
+                        <hi>Iude</hi> bids them in all godlineſſe proceede,</p>
+                     <p>And of deceiuing teachers to take heede.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:139"/>
+                     <head>Reuelation.</head>
+                     <p>Diuine S. <hi>Iohn</hi> to <hi>Pathmos</hi> Ile eu<g ref="char:EOLhyphen"/>ilde,</p>
+                     <p>This heauenly work, t'inſtruct vs, he compilde.</p>
+                     <pb facs="tcp:184136:140"/>
+                     <p>Hee tels the godly, God ſhall be their gaines.</p>
+                     <p>He threats the godleſſe with e<g ref="char:EOLhyphen"/>ternal paines.</p>
+                     <pb facs="tcp:184136:140"/>
+                     <p>He ſhewes how Antichriſt ſhould raigne and rage,</p>
+                     <p>And how our Sauiour ſhould his pride aſſwage.</p>
+                     <pb facs="tcp:184136:141"/>
+                     <p>How Chriſt in glory ſhall to iudgement come</p>
+                     <p>And how a<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> people muſt abid<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> his doome.</p>
+                  </div>
+                  <div type="book">
+                     <pb facs="tcp:184136:141"/>
+                     <head>Praier.</head>
+                     <p>Oh thou whoſe name is greateſt of all names</p>
+                     <p>Preſerue and keepe the Race of Roiall <hi>Iamet,</hi>
+                     </p>
+                     <pb facs="tcp:184136:142"/>
+                     <p>That <hi>Britaines</hi> throne for euer may beſure</p>
+                     <p>Of one of them whilſt Sunne and Moone endure.</p>
+                     <p>
+                        <hi>Amen.</hi>
+                     </p>
+                     <pb facs="tcp:184136:142"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
